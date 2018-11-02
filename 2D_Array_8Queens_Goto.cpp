@@ -1,5 +1,5 @@
 /*Objective: Find all Possible placements of Queens on an 8x8 board
-             such that no Queens are killed by another queens
+             such that no Queens are killed by another queens with 2DArray
 */
 #include <iostream>
 using namespace std;
